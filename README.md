@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/I6wUi5eTdUCWI/giphy.gif)
+![MasterHead](https://media4.giphy.com/media/I6wUi5eTdUCWI/giphy.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0-q7DS0GktMAAAAd/tamaki-amajiki-tamaki.gif">
