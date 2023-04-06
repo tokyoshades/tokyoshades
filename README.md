@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/d198a07be05aa79bb522f21c0668c7ab/6b115d24500cc027-3c/s1280x1920/beeb8d3e578259f547b1c005892c5885ed78c26c.gifv)
+![MasterHead](https://64.media.tumblr.com/d198a07be05aa79bb522f21c0668c7ab/6b115d24500cc027-3c/s1280x1920/beeb8d3e578259f547b1c005892c5885ed78c26c.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0-q7DS0GktMAAAAd/tamaki-amajiki-tamaki.gif">
