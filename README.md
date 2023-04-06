@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Python and C**
 
+- 🎬 I love watching animes & films 
+
+- 🎮 I'm playing Minecraft, VALORANT, Genshin & Hyenas Closed Alpha
+
+- 📚 I like reading mangas, novels & comics
+
 - 📝 I regularly write articles on [https://www.discordhaber.com/](https://www.discordhaber.com/)
 
 - 📫 Contact **mali.20072009@outlook.com**
