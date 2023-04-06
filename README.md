@@ -1,7 +1,7 @@
 ![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-6f77f4a81a.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lL2gvQhnmqAAAAAC/daredevil-matt-murdock.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/03/ea/7703ea016297f5c56c26ae713834dea3.gif">
 
 - 🌱 I’m currently learning **Python and C**
 
