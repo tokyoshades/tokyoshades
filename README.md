@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/_YgGGcfe-3IAAAAC/chrollo-lucilfer-chrollo-hxh.gif)
+![MasterHead](https://www.iloveimg.com/download/6tbkqsfbrq3cql1Agfg5lk89sq90211cddmgn1kvpql2yl8d3p80tw6mgl1fwt2y8mw19A6k133489tpygmzgc2jlg9ls54s76ddzn4krxtz3d329p37031g76kh4mhtf31b4krhjw3nv59ss15j9lAjbjzrfynrh579wcgy1fh060rgpjs1/9)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zaLW714mBmIAAAAC/one-piece.gif">
