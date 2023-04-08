@@ -1,4 +1,4 @@
-![MasterHead](tumblr_777197080396b267b44a8f42ea368214_b017364d_540)
+![MasterHead](https://64.media.tumblr.com/86e27e34fb4fd96c853153c51f2dfe44/10bc660a115f417d-d7/s500x750/7f7e9befea65afda41462b82108ed23e9b9f3983.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="tumblr_777197080396b267b44a8f42ea368214_b017364d_540">
