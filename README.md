@@ -1,7 +1,7 @@
-![MasterHead](https://www.iloveimg.com/download/6tbkqsfbrq3cql1Agfg5lk89sq90211cddmgn1kvpql2yl8d3p80tw6mgl1fwt2y8mw19A6k133489tpygmzgc2jlg9ls54s76ddzn4krxtz3d329p37031g76kh4mhtf31b4krhjw3nv59ss15j9lAjbjzrfynrh579wcgy1fh060rgpjs1/9)
+![MasterHead](tumblr_777197080396b267b44a8f42ea368214_b017364d_540)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zaLW714mBmIAAAAC/one-piece.gif">
+<img align="right" alt="Coding" width="400" src="tumblr_777197080396b267b44a8f42ea368214_b017364d_540">
 
 - 🌱 I’m currently learning **Python and C**
 
