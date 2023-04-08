@@ -1,7 +1,7 @@
-![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-6f77f4a81a.gif)
+![MasterHead](https://media.tenor.com/_YgGGcfe-3IAAAAC/chrollo-lucilfer-chrollo-hxh.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://im2.ezgif.com/tmp/ezgif-2-7405ef310c.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zaLW714mBmIAAAAC/one-piece.gif">
 
 - 🌱 I’m currently learning **Python and C**
 
