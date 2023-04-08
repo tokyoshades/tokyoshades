@@ -1,4 +1,4 @@
-![MasterHead](https://animesher.com/orig/1/114/1148/11483/animesher.com_anime-gif-ichinose-guren-yuu-hyakuya-1148307.gif)
+![MasterHead](https://media.tenor.com/OFBuAE67FOUAAAAC/guren-owari-no-seraph.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/re-mTjTLwIoAAAAC/zoro.gif">
