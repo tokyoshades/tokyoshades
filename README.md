@@ -7,7 +7,7 @@
 
 - 🎬 I love watching animes & films 
 
-- 🎮 I'm playing Minecraft, VALORANT, Genshin & Hyenas Closed Alpha
+- 🎮 I'm playing **Minecraft, VALORANT, Genshin & Hyenas Closed Alpha**
 
 - 📚 I'm reading mangas, novels & comics
 
