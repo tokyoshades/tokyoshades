@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/5213df437672a4ca93239a040e2454c2/30e06eda97d386fb-1b/s640x960/5a3c5924a6d299963e0ede4d1a06a30d877b2c50.gif)
+![MasterHead](https://44.media.tumblr.com/b29d1967cd46edb19a1b0e31bb8b269c/f28c29062e1fb9c5-0b/s640x960_f1/8a31524700131c264d013d82c5b384a0df153b1c.gif)
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/241c75d2922c780f0a147205f6a184f8/8db22dbf6df3abe8-10/s640x960/231d6a6575ed48061e2de51ad46154b51b626f2e.gif">
