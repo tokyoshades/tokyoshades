@@ -15,7 +15,7 @@
 
 - 📫 Contact **mali.20072009@outlook.com**
 
-- 🐱‍👤 Discord: serçe#1234
+- 🌴 Discord: serçe#1234
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
