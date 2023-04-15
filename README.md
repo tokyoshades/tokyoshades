@@ -7,9 +7,9 @@
 
 - 🎬 I love watching animes & films 
 
-- 🎮 I'm playing **Minecraft, VALORANT, Genshin & Hyenas Closed Alpha**
+- 🎮 I play **Minecraft, VALORANT, Genshin & Hyenas Closed Alpha**
 
-- 📚 I'm reading mangas, novels & comics
+- 📚 I read mangas, novels & comics
 
 - 📝 I write articles on [https://www.discordhaber.com/](https://www.discordhaber.com/)
 
