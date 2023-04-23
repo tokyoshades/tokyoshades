@@ -4,7 +4,7 @@
 <h3 align="center">A passionate junior developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/241c75d2922c780f0a147205f6a184f8/8db22dbf6df3abe8-10/s640x960/231d6a6575ed48061e2de51ad46154b51b626f2e.gif">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:971120135656058901)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:971120135656058901)](https://discord.com/users/:971120135656058901)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
