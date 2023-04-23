@@ -21,7 +21,6 @@
 
 - 📫 Contact **mali.20072009@outlook.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnorth)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
