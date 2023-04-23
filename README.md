@@ -7,8 +7,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnorth)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **Python and C**
