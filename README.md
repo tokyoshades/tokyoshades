@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Python and C**
 
+- 🧶 I'm using Figma, Photoshop, Illustrator, After Effects & Premier Pro
+
 - 🎬 I love watching animes & films 
 
 - 🎮 I play **Minecraft, VALORANT, Genshin & Hyenas Closed Alpha**
