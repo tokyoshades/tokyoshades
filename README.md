@@ -38,7 +38,10 @@
 
 
 
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://streak-stats.demolab.com/?user=deadnorth&background=390666&border=390666&border_radius=15&card_width=590" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnortha&hide_progress=true&bg_color=390666" />
+</div>
 
 
 
