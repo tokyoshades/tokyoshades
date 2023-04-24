@@ -5,25 +5,18 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnorth)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-- 🌱 I’m currently learning **Python, C & HTML**
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={deadnorth}&theme={390666}
 
-- 🧶 I'm using **Figma, Photoshop, Illustrator, After Effects & Premier Pro**
+https://github-readme-streak-stats.herokuapp.com/?user={deadnorth}
 
-- 🎬 I love watching animes & films 
+https://github-profile-trophy.vercel.app/?username={deadnorth}
 
-- 🎮 I play **Minecraft, VALORANT, Genshin & Hyenas Closed Alpha**
-
-- 📚 I read mangas, novels & comics
-
-- 📝 I write articles on [https://www.discordhaber.com/](https://www.discordhaber.com/)
-
-- 📫 Contact **mali.20072009@outlook.com**
+https://github-readme-stats.vercel.app/api/top-langs/?username={deadnorth}
 
 
 
