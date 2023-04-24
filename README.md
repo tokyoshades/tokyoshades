@@ -14,9 +14,24 @@ Front-End
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
+Back-End (Coming Soon)
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts&theme=dark)](https://skillicons.dev)
+
+
+Database (Coming Soon)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
+
+
+
 Design
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,pr,blender,figma&theme=dark)](https://skillicons.dev)
+
+Framework
+
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal&theme=dark)](https://skillicons.dev)
 
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={deadnorth}&theme={390666}
 
