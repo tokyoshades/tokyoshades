@@ -7,9 +7,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnorth)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **Python, C & HTML**
 
-- 🧶 I'm using Figma, Photoshop, Illustrator, After Effects & Premier Pro
+- 🧶 I'm using **Figma, Photoshop, Illustrator, After Effects & Premier Pro**
 
 - 🎬 I love watching animes & films 
 
