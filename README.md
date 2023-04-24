@@ -7,6 +7,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadnorth)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
+
 - 🌱 I’m currently learning **Python, C & HTML**
 
 - 🧶 I'm using **Figma, Photoshop, Illustrator, After Effects & Premier Pro**
