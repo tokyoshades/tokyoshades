@@ -9,6 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
 - 🌱 I’m currently learning **Python, C & HTML**
 
 - 🧶 I'm using **Figma, Photoshop, Illustrator, After Effects & Premier Pro**
