@@ -34,6 +34,10 @@ Framework
 
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal&theme=dark)](https://skillicons.dev)
 
+Social 
+
+[[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)](https://twitter.com/sercee_0) [[![My Skills](https://skillicons.dev/icons?i=insstagram)](https://skillicons.dev)](https://www.instagram.com/sercee.xyz/) 
+
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={deadnorth}&theme={390666}
 
 https://github-readme-streak-stats.herokuapp.com/?user={deadnorth}
