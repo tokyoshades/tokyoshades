@@ -6,9 +6,14 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901)
 
 
+Languages
 [![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
 
+Front-End
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+Design
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,pr,figma&theme=dark)](https://skillicons.dev)
 
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={deadnorth}&theme={390666}
 
