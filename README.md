@@ -5,7 +5,6 @@
 
 <img align="center" src=[![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901) 
 <img align="left" src="https://streak-stats.demolab.com/?user=deadnorth&background=390666&border=390666&border_radius=15&card_width=590">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnortha&hide_progress=true&bg_color=390666">
 
 > Languages
 
