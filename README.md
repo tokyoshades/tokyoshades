@@ -35,11 +35,5 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal&theme=dark)](https://skillicons.dev)
 
 
-
-
-<p align="center">
-  <img width="460" height="300" src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666"(https://discord.com/users/971120135656058901)>
-</p>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=deadnorth&background=390666&border=390666&border_radius=15&card_width=590)](https://git.io/streak-stats)
 
