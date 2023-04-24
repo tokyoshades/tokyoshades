@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 
-![](https://komarev.com/ghpvc/?username=deadnorth)
+![](https://komarev.com/ghpvc/?username=deadnorth&color=390666&style=for-the-badge)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901)
 
