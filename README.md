@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm deadnorth</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 
-![](https://komarev.com/ghpvc/?username=deadnorth&color=390666&style=for-the-badge) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://komarev.com/ghpvc/?username=deadnorth&color=390666&style=for-the-badge) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901)
 
@@ -16,7 +16,7 @@ Front-End
 
 Back-End (Coming Soon)
 
-[![My Skills](https://skillicons.dev/icons?i=js, nodejs,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts&theme=dark)](https://skillicons.dev)
 
 Database (Coming Soon)
 
