@@ -16,7 +16,7 @@ Front-End
 
 Design
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,pr,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,pr,blender,figma&theme=dark)](https://skillicons.dev)
 
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={deadnorth}&theme={390666}
 
