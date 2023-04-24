@@ -18,16 +18,17 @@ Back-End (Coming Soon)
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts&theme=dark)](https://skillicons.dev)
 
-
 Database (Coming Soon)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
 
-
-
 Design
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai,pr,blender,figma&theme=dark)](https://skillicons.dev)
+
+IDE
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
 Framework
 
