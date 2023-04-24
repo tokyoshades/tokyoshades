@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=deadnorth&color=390666&style=for-the-badge) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=390666) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=390666) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=390666) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=390666) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=390666)](mailto:mali.20072009@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901)
+[![Discord Presence](https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666)](https://discord.com/users/971120135656058901) [![GitHub Streak](https://streak-stats.demolab.com/?user=deadnorth&background=390666)](https://git.io/streak-stats)
 
 
 Languages
@@ -34,13 +34,6 @@ Framework
 
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal&theme=dark)](https://skillicons.dev)
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={deadnorth}&theme={390666}
-
-https://github-readme-streak-stats.herokuapp.com/?user={deadnorth}
-
-https://github-profile-trophy.vercel.app/?username={deadnorth}
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={deadnorth}
 
 
 
