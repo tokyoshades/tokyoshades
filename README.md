@@ -13,11 +13,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-> Back-End (Coming Soon)
+> Back-End (In the future)
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts&theme=dark)](https://skillicons.dev)
 
-> Database (Coming Soon)
+> Database (In the future)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
 
