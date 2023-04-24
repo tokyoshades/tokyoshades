@@ -5,15 +5,10 @@
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=390666">
-</p>
+<a href="https://discord.com/users/971120135656058901"
 
-> [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FAA61A)](mailto:mali.20072009@outlook.com?subject=[GitHub]%20Source%20Han%20Sans) [![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://discord.com/users/971120135656058901) Genshin UID: 722430044
-
-> 
-
-> 
- 
-
+> [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FAA61A)](mailto:mali.20072009@outlook.com?subject=[GitHub]%20Source%20Han%20Sans) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/971120135656058901) Genshin UID: 722430044
+  
 > Languages
 
 [![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
