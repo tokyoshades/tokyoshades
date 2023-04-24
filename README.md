@@ -16,7 +16,7 @@ Front-End
 
 Back-End (Coming Soon)
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js, nodejs,ts&theme=dark)](https://skillicons.dev)
 
 Database (Coming Soon)
 
