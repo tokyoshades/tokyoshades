@@ -63,7 +63,7 @@
  
    <img align="center" src="https://streak-stats.demolab.com?user=deadnorth&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=597&background=390666&border=390666&stroke=FAA61A&ring=FAA61A&fire=FAA61A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC"> 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnorth&bg_color=390666&hide_border=true&langs_count=5">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnorth&bg_color=390666&hide_border=true&langs_count=5&layout=compact">  
      
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=deadnorth&no-frame=true&no-bg=true&">  
      
