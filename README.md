@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/971120135656058901" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=000000">
+  <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=1a051c">
   </a>
  
 <h3 align="center">Lenovo Ideapad Gaming 3 15ARH05; Nvidia GeForce GTX 1650 Ti, Ryzen 7 4800H, 16(8x2)GB RAM, 512GB SSD, 120 Hz FHD IPS Panel</h3>
