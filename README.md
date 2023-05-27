@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="Typing SVG" /></h2>
 
 ``` 
-class deadnorh {
+class deadnorth {
     constructor(options) {
         this.name = "Mehmet Ali",
         this.age = "16",
