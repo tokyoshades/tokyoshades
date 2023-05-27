@@ -11,7 +11,7 @@
 <a href="https://instagram.com/sercee.xyz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a align="center" href="https://twitter.com/sercee_xyz" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a align="center" href="https://www.reddit.com/user/sinekmali" target"blank_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a align="center" href="https://anilist.co/user/deadnorth/" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a align="center" href="https://www.tiktok.com/@theburstone?is_from_webapp=1&sender_device=pc" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a align="center" href="https://pinterest.com/sercee_xyz/" target"blank_"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 <a align="center" href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=YI0SFkaZSGGcqAohOTCBpg&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <br> 
