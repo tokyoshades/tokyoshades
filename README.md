@@ -10,7 +10,7 @@ class deadnorh {
     };
 }
 
-export default Lulu
+export default deadnorth
 ```   
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=B7160C&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Contact" alt="Typing SVG" /></h2>
