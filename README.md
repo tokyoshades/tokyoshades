@@ -1,5 +1,6 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&duration=2000&pause=1000&color=B7160C&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Contact" alt="Typing SVG" /></h2>
 <p align="center" href="mailto:mali.20072009@outlook.com" target"blank_"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a align="center" href="https://wa.me/message/2XKWN55CHAFDI1" target"blank_"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a align="center" href="https://t.me/sercee0" target"blank_"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a align="center" href="https://www.linkedin.com/in/sercee/" target"blank_"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
