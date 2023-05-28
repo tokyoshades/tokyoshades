@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&width=435&lines=About+Me;ser%C3%A7e+%2F+deadnorth" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&width=435&lines=Hello%2C+%C4%B1'm+ser%C3%A7e%F0%9F%95%8A%EF%B8%8F!;Fullstack+Dev%2C+Graphic+D.+%26+Blogger." alt="Typing SVG" /></h2>
 
 ``` 
 class deadnorth {
