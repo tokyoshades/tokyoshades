@@ -14,7 +14,7 @@ class deadnorth {
 
 export default deadnorth
 ```     
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=4E6CB2&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=4E6CB2&background=69FF2000&cens" alt="Typing SVG" /></h2>
 <p align="center">
  <a align="center" href="https://anilist.co/user/deadnorth/" target"blank_"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"></a>
   <a align="center" href="https://discord.com/users/971120135656058901" target"blank_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -25,16 +25,7 @@ export default deadnorth
   <a align="center" href="https://www.tiktok.com/@theburstone?is_from_webapp=1&sender_device=pc" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a align="center" href="https://pinterest.com/sercee_xyz/" target"blank_"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 <a align="center" href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=YI0SFkaZSGGcqAohOTCBpg&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<br> 
-    
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=D4F740&center=true&vCenter=true&repeat=false&width=435&lines=Browsers%2C+OSs+%26+System+" alt="Typing SVG" /></a>
-    <p align="center">
-    <img src=https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white />
-   <img src=https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white />
-    <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
-    <img src=https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white />
-    <img src=https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white />
-    <img src=https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white />
+<br>    
  
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauges+%26+Tools" alt="Typing SVG" /></h2>
  <h2 align="center">
