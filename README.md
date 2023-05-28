@@ -36,7 +36,7 @@ export default deadnorth
 </br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1112168647021051955/deadnorth_banner.png" >
+  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1112384043896545280/banner-succesfull_1.png" >
 </p>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord" alt="Typing SVG" /></h1>
