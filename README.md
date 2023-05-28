@@ -37,7 +37,7 @@ export default deadnorth
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/971384335531921428/1112168647021051955/deadnorth_banner.png" 
-      height="500px"
+      height="420px"
        width="auto">
 </p>
 
