@@ -14,7 +14,7 @@ class deadnorth {
 
 export default deadnorth
 ```     
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=4E6CB2&background=69FF2000&cens" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=4E6CB2&center=true&repeat=false&vCenter=true&width=435&lines=Social+Medias" alt="Typing SVG" /></h2>
 <p align="center">
  <a align="center" href="https://anilist.co/user/deadnorth/" target"blank_"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"></a>
   <a align="center" href="https://discord.com/users/971120135656058901" target"blank_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
