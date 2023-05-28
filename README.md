@@ -41,7 +41,7 @@ export default deadnorth
     <img src=https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white />
     <img src=https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white />
  
- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
+ <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauges+%26+Tools" alt="Typing SVG" /></h2>
  <h2 align="center">
  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,ts,html,css,mongodb,atom,powershell&theme=dark" />
  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,ps,ae,ai,pr,blender,figma,unity,unreal&theme=dark" />
@@ -49,7 +49,7 @@ export default deadnorth
  
 </br>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=EDD04A&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=EDD04A&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stats" alt="Typing SVG" /></h2>
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:deadnorth?theme=rule34">
 </h2>
@@ -61,7 +61,9 @@ export default deadnorth
   <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=000000" align="center" />
  </h2>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=ffffff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=ffffff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stats+" alt="Typing SVG" /></h1>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=deadnorth&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnorth&layout=compact&show_icons=true&theme=codeSTACKr&hide_border=true"width="%100" height="150px" align="center" />
+    
+![deadnorth](https://cdn.discordapp.com/attachments/971384335531921428/1112168647021051955/deadnorth_banner.png)
