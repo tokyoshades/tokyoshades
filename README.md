@@ -1,3 +1,10 @@
+<p align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1112999859927134268/IMG-20230530-WA0033.jpg" >
+
+</p>
+
+
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&width=435&lines=Hello%2C+%C4%B1'm+ser%C3%A7e%F0%9F%95%8A%EF%B8%8F!;Fullstack+Dev%2C+Graphic+D.+%26+Blogger." alt="Typing SVG" /></h2>
 
 ``` 
@@ -34,10 +41,6 @@ export default deadnorth
  </h2>
  
 </br>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1112384043896545280/banner-succesfull_1.png" >
-</p>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord" alt="Typing SVG" /></h1>
 
