@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1112999859927134268/IMG-20230530-WA0033.jpg" >
+  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1113005020376465479/Asuka_Banner_Community.png" >
 
 </p>
 
