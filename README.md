@@ -45,7 +45,7 @@ export default deadnorth
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=000000&idleMessage=:Probably on Spider-Verse&hideDiscrim" align="center" />
+  <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=000000&idleMessage=:Probably hunting scammers...&hideDiscrim=true" align="center" />
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=EDD04A&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" /></h1>
