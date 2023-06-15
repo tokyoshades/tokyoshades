@@ -14,8 +14,6 @@ class deadnorth {
         this.age = "16",
         this.pronouns = "he / him",
         this.job = "Fullstack Dev / Graphic Designer / Blogger",
-        this.email = " mailto:mali.20072009@outlook.com",
-        this.telegram = " https://t.me/sercee0 ",
     };
 }
 
