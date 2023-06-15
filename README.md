@@ -5,20 +5,8 @@
 </p>
 
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&width=435&lines=Hello%2C+%C4%B1'm+ser%C3%A7e%F0%9F%95%8A%EF%B8%8F!;Fullstack+Dev%2C+Graphic+D.+%26+Blogger." alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+ser%C3%A7e%F0%9F%95%8A%EF%B8%8F!;Fullstack+Dev%2C+Graphic+D.+%26+Blogger." alt="Typing SVG" /></h2>
 
-``` 
-class deadnorth {
-    constructor(options) {
-        this.name = "Mehmet Ali",
-        this.age = "16",
-        this.pronouns = "he / him",
-        this.job = "Fullstack Dev / Graphic Designer / Blogger",
-    };
-}
-
-export default deadnorth
-```     
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=4E6CB2&center=true&repeat=false&vCenter=true&width=435&lines=Social+Medias" alt="Typing SVG" /></h2>
 <p align="center">
  <a align="center" href="https://anilist.co/user/deadnorth/" target"blank_"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"></a>
