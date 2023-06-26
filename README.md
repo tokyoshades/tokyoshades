@@ -31,8 +31,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard.cnrad.dev/api/971120135656058901?theme=dark&bg=000000&idleMessage=Hunting%20For%20Your%20Dream&hideDiscrim=true&hideBadges=false" align="center" />
-  <img src="https://lanyard.cnrad.dev/api/775027801228050442?theme=dark&bg=000000&idleMessage=Never%20Ever%20Heaven's%20Blind%20The%20World&hideDiscrim=true&hideBadges=false" align="center" />
+ <a href="https://discord.com/users/971120135656058901"><img  width="400px" src="https://luppufy.onrender.com/member/971120135656058901?theme=000000"></a>
+<a href="https://discord.com/users/775027801228050442"><img  width="400px" src="https://luppufy.onrender.com/member/775027801228050442?theme=000000"></a>
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=EDD04A&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" /></h1>
