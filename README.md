@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1114669613494571058/Roronoa_Zoro_Banner.png" >
+  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1122986632799322152/banner_3.png" >
 
 </p>
 
