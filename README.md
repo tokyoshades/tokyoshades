@@ -28,12 +28,14 @@
  
 </br>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Discord%20%26%20Spotify" alt="Typing SVG" /></h1>
 
 <h2 align="center">
  <a href="https://discord.com/users/971120135656058901"><img  width="400px" src="https://luppufy.onrender.com/member/971120135656058901?theme=000000"></a>
 <a href="https://discord.com/users/775027801228050442"><img  width="400px" src="https://luppufy.onrender.com/member/775027801228050442?theme=000000"></a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=cd92kcy4bhtcyyhkyhiq5xhu6&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" src="https://spotify-github-profile.vercel.app/api/view?uid=cd92kcy4bhtcyyhkyhiq5xhu6&redirect=true"
  </h2>
+
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=EDD04A&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" /></h1>
 <p align="center">
