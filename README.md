@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1136742413415743639/kairoshu_banner_2.png" >
+  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1140757875908681728/Frame_3fghasa.png" >
 
 </p>
 
