@@ -1,11 +1,11 @@
 <p align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/971384335531921428/1140757875908681728/Frame_3fghasa.png" >
+  <img src="https://i.imgur.com/NiTFys9.png" >
 
 </p>
 
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=48D1CC&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+ser%C3%A7e%F0%9F%95%8A%EF%B8%8F!;Fullstack+Dev%2C+Graphic+D.+%26+Blogger." alt="Typing SVG" /></h2>
+
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=4E6CB2&center=true&repeat=false&vCenter=true&width=435&lines=Social+Medias" alt="Typing SVG" /></h2>
 <p align="center">
