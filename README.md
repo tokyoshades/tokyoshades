@@ -14,8 +14,8 @@
   <a align="center" href="https://www.tiktok.com/@theburstone?is_from_webapp=1&sender_device=pc" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=black"></a>
 <a align="center" href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=YI0SFkaZSGGcqAohOTCBpg&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=black"></a>
 
-<a align="center">
-<img src="https://lanyard.cnrad.dev/api/971120135656058901?bg=:000000&borderRadius=:24px&showDisplayName=true&idleMessage=bleached" <a href="https://discord.com/users/971120135656058901" target="blank_"></a>
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/971120135656058901?bg=:000000&borderRadius=:24px&showDisplayName=true&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
 
 
   <h2>
