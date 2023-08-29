@@ -39,8 +39,8 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=EDD04A&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" /></h1>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=deadnorth&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnorth&layout=compact&show_icons=true&theme=codeSTACKr&hide_border=true"width="%100" height="150px" align="center" />
-    <img width="50%" src="https://count.getloli.com/get/@:deadnorth?theme=rule34">
+   <img src="https://github-readme-stats.vercel.app/api?username=furinajpg&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&layout=compact&show_icons=true&theme=codeSTACKr&hide_border=true"width="%100" height="150px" align="center" />
+    <img width="50%" src="https://count.getloli.com/get/@:furinajpg?theme=rule34">
     
 
