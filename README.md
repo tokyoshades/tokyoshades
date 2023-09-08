@@ -15,7 +15,7 @@
 <a align="center" href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=YI0SFkaZSGGcqAohOTCBpg&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=black"></a>
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/971120135656058901?bg=:000000&borderRadius=:24px&showDisplayName=true&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
+<img src="https://lanyard.kyrie25.me/api/971120135656058901?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=000000&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
 
 
   <h2>
