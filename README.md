@@ -1,35 +1,50 @@
+
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Furina."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=furinajpg&color=191717">
+
+<div align="center">
+
+
+<img width="30%" align="right" src="https://i.imgur.com/Q33nciX.png">
+<div align="left" width="100%">
+
+
 <p align="center">
-
-  <img src="https://i.imgur.com/xMdROMw.png" >
-
-</p>
-
-<p align="center">
- <a align="center" href="https://myanimelist.net/profile/furinadev" target"blank_"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white&color=black"></a>
-  <a align="center" href="https://discord.com/users/971120135656058901" target"blank_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=black"></a>
-    <a align="center" href="https://www.linkedin.com/in/furina/" target"blank_"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black"></a>
-<a href="https://instagram.com/furinadev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black"></a>
-  <a align="center" href="https://twitter.com/furinadev" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black"></a>
- <a align="center" href="https://www.reddit.com/user/sinekmali" target"blank_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&color=black"></a>
-  <a align="center" href="https://www.tiktok.com/@furinadev" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=black"></a>
-<a align="center" href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=YI0SFkaZSGGcqAohOTCBpg&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=black"></a>
+ <a href="https://discord.com/users/971120135656058901" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/furinajpg" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=85eb603f1a824c4b" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/furinadev/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 <p align="center">
 <img src="https://lanyard.kyrie25.me/api/971120135656058901?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=000000&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
 
+## About Me
 
-  <h2>
-  <br>    
- <h2 align="center">
- <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,ts,html,css,mongodb,atom,powershell&theme=dark" />
- <img src="https://skillicons.dev/icons?i=visualstudio,vscode,ps,ae,ai,pr,blender,figma,unity,unreal&theme=dark" />
- </h2>
-</br>
-</h2>
-  
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=furinajpg&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&layout=compact&show_icons=true&theme=codeSTACKr&hide_border=true"width="%100" height="150px" align="center" />
-    <img width="50%" src="https://count.getloli.com/get/@:furinajpg?theme=rule34">
-    
+<samp>
+• Let me introduce myself, I'm Mehmet Ali, a 16 y/o developer and designer makes projects with new ideas.<br /><br />
 
+• You Should Come By [Here](https://discord.gg/javascript) <br />
+• My [Website](https://www.sercee.com.tr/)
+
+</samp>
+
+## Technologies I use
+
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=python,c,js,nodejs,ts,html,css,php,mongodb,atom,powershell,visualstudio,vscode,ps,ae,ai,pr,blender,figma,unity,unreal&perline=7">
+
+
+## My Stats
+
+
+<img width="30%" align="left" src="https://i.imgur.com/ZYiN4Hz.png">
+
+<br />
+
+<div align="center" width="100%">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=furinajpg&show_icons=false&theme=great-gatsby&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+
+<h2 align="left" > I'm Listening Right Now </h2>
+
+ <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=cd92kcy4bhtcyyhkyhiq5xhu6&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:furinajpg?theme=asoul"> 
