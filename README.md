@@ -29,7 +29,7 @@
 
 ## Technologies I use
 
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=python,c,js,nodejs,ts,html,css,php,mongodb,atom,powershell,visualstudio,vscode,ps,ae,ai,pr,blender,figma,unity,unreal&perline=7">
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=python,c,js,nodejs,ts,html,css,sass,mongodb,atom,powershell,visualstudio,vscode,ps,ae,ai,pr,blender,figma,unity,unreal&perline=7">
 
 
 ## My Stats
