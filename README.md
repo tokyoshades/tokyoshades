@@ -49,7 +49,7 @@ I'm not compeletly good at all.
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=furinajpg&show_icons=false&theme=great-gatsby&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
 
-<h2 align="right" > I'm Listening Right Now </h2>
+<h2 align="left" > I'm Listening Right Now </h2>
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=cd92kcy4bhtcyyhkyhiq5xhu6&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:furinajpg?theme=asoul"> 
