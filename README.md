@@ -44,7 +44,7 @@ I'm not compeletly good at all.
 
 <br />
 
-<div align="right" width="100%">
+<div align="right" width="40%">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=furinajpg&show_icons=false&theme=great-gatsby&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
