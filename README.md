@@ -29,8 +29,6 @@
 
 ## Technologies I use
 
-<img width="30%" align="right" src="https://imgur.com/0NGmbu7.png">
-
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=python,cs,js,nodejs,ts,tailwind,next,html,css,sass,mongodb,bots,atom,ps,ae,ai,pr,blender,figma,unity,unreal&perline=7">
 
 <p align="left">
