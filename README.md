@@ -4,7 +4,7 @@
 <div align="center">
 
 
-<img width="30%" align="right" src="https://imgur.com/lXQh46o.png">
+<img width="30%" align="right" src="https://i.imgur.com/fby7dPt.png">
 <div align="left" width="100%">
 
 
@@ -31,14 +31,10 @@
 
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=python,cs,js,nodejs,ts,tailwind,next,html,css,sass,mongodb,bots,atom,ps,ae,ai,pr,blender,figma,unity,unreal&perline=7">
 
-<p align="left">
-I'm not compeletly good at all.
-</p>
-
 ## My Stats
 
 
-<img align="left" src="https://imgur.com/8ik6FFC.png">
+<img align="left" src="https://i.imgur.com/IvHGo2b.png">
 
 <br />
 
