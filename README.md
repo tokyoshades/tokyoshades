@@ -31,6 +31,10 @@
 
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=python,cs,js,nodejs,ts,tailwind,next,html,css,sass,mongodb,bots,atom,ps,ae,ai,pr,blender,figma,unity,unreal&perline=7">
 
+<p align="left">
+I'm not compeletly good at all.
+</p>
+
 ## My Stats
 
 
