@@ -44,8 +44,8 @@ I'm not compeletly good at all.
 
 <div align="right" width="40%">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=furinajpg&show_icons=false&theme=great-gatsby&hide_border=true&bg_color=0D1117">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=furinajpg&show_icons=false&theme=rose_pine&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
 
 <h2 align="left" > I'm Listening Right Now </h2>
 
