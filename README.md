@@ -38,11 +38,11 @@ I'm not compeletly good at all.
 ## My Stats
 
 
-<img align="left" src="https://i.imgur.com/IvHGo2b.png">
+<img width="30%" align="left" src="https://i.imgur.com/IvHGo2b.png">
 
 <br />
 
-<div align="right" width="40%">
+<div align="right" width="100%">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=furinajpg&show_icons=false&theme=rose_pine&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furinajpg&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
