@@ -50,4 +50,5 @@ I'm not compeletly good at all.
 <h2 align="left" > I'm Listening Right Now </h2>
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=cd92kcy4bhtcyyhkyhiq5xhu6&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:furinajpg?theme=asoul"> 
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:furinajpg?theme=asoul">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=furinajpg&theme=react-dark">
