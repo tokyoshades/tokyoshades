@@ -9,10 +9,10 @@
 
 
 <p align="center">
- <a href="https://myanimelist.net/profile/furinadev" target"blank_"><img width="15%" src="https://img.shields.io/badge/MyAList%20-000000.svg?&style=for-the-badge&logo=myanimelist&logoColor=white"></a>
-  <a href="https://github.com/furinajpg" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://myanimelist.net/profile/deadnorth" target"blank_"><img width="15%" src="https://img.shields.io/badge/MyAList%20-000000.svg?&style=for-the-badge&logo=myanimelist&logoColor=white"></a>
+  <a href="https://github.com/deadnorth" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=85eb603f1a824c4b" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/furinadev/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+ <a href="https://www.instagram.com/deednorth/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 <p align="center">
 <img src="https://lanyard.kyrie25.me/api/971120135656058901?decoration=true&gradient=443e6f-332d5e-251f50-211d3c&useDisplayName=true&animationDuration=2s&waveColor=251f50&imgStyle=square&imgBorderRadius=25px&bg=000000&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
