@@ -15,14 +15,13 @@
  <a href="https://www.instagram.com/deednorth/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 <p align="center">
-<img src="https://lanyard.kyrie25.me/api/971120135656058901?decoration=true&gradient=443e6f-332d5e-251f50-211d3c&useDisplayName=true&animationDuration=2s&waveColor=251f50&imgStyle=square&imgBorderRadius=25px&bg=f6e1c3&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
+<img src="https://lanyard.kyrie25.me/api/971120135656058901?decoration=true&gradient=443e6f-332d5e-251f50-211d3c&useDisplayName=true&animationDuration=2s&waveColor=251f50&imgStyle=square&imgBorderRadius=25px&bg=000000&idleMessage=bleached" <p href="https://discord.com/users/971120135656058901" target="blank_"></p>
 
 ## About Me
 
 <samp>
 • Let me introduce myself, I'm Mehmet Ali, a 16 y/o developer and designer makes projects with new ideas.<br /><br />
 
-• You Should Come By [Here](https://discord.gg/javascript) <br />
 • My [Website](https://www.sercee.com.tr/)
 
 </samp>
