@@ -9,8 +9,8 @@
 
 
 <p align="center">
- <a href="https://myanimelist.net/profile/deadnorth" target"blank_"><img width="15%" src="https://img.shields.io/badge/MyAList%20-000000.svg?&style=for-the-badge&logo=myanimelist&logoColor=white"></a>
-  <a href="https://github.com/deadnorth" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://myanimelist.net/profile/tokyoshades" target"blank_"><img width="15%" src="https://img.shields.io/badge/MyAList%20-000000.svg?&style=for-the-badge&logo=myanimelist&logoColor=white"></a>
+  <a href="https://github.com/tokyoshades" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=85eb603f1a824c4b" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/deednorth/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
@@ -43,11 +43,11 @@ I'm not compeletly good at all.
 
 <div align="right" width="100%">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=deadnorth&show_icons=false&theme=rose_pine&hide_border=true&bg_color=0D1117">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadnorth&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=tokyoshades&show_icons=false&theme=rose_pine&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyoshades&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117">
 
 <h2 align="left" > I'm Listening Right Now </h2>
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=cd92kcy4bhtcyyhkyhiq5xhu6&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:deadnorth?theme=asoul">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deadnorth&theme=react-dark">
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:tokyoshades?theme=asoul">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tokyoshades&theme=react-dark">
