@@ -25,7 +25,7 @@ I'm not compeletly good at all.
 </p>
 
 <p align="right">
-I't counts wrong i think...
+It counts wrong i think...
 </p>
 
 ## My Stats
